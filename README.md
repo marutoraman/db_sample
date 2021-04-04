@@ -5,6 +5,9 @@
   https://youtu.be/8prJYCiWpFc<BR>
   https://youtu.be/8Gwqv_XvxPA<BR>
   https://youtu.be/5Fbcc9g19jg<BR>
+ 
+※動画の作業に加えて、VPCセキュリティのインバウンド設定を以下のように設定してください。<BR>
+![追加設定](https://i.gyazo.com/d38020552941e3f15edeffd010d69e7f.png)
 
 ## task1: AWSでRDSのインスタンスを起動してください
 ## task2: HeidiSQLを使用してDBにアクセスしてDBを作成してください<BR>
