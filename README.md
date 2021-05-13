@@ -10,8 +10,8 @@
 ![追加設定](https://i.gyazo.com/d38020552941e3f15edeffd010d69e7f.png)
 
 ## task1: AWSでRDSのインスタンスを起動してください
-## task2: HeidiSQLを使用してDBにアクセスしてDBを作成してください<BR>
-https://forest.watch.impress.co.jp/library/software/heidisql/
+## task2: VSCODEのMySQL拡張機能を使用してDBにアクセスしてDBを作成してください<BR>
+https://qiita.com/ymasaoka/items/aa03323bbac7e7c5f1be
 ## tast3: 起動したインスタンスの情報を.envに記述してください
 ## task4: migrate.pyを実行してテーブルが作成されることを確認してください
 ## task5: main.pyを実行して書籍情報がテーブルに格納できることを確認してください
